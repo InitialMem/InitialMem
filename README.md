@@ -1,5 +1,4 @@
 ### ✨Hi there is InitialMem
-<img src="Images/Violent.jpg" width="50%" height="50%">
 
 <!--
 **InitialMem/InitialMem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
